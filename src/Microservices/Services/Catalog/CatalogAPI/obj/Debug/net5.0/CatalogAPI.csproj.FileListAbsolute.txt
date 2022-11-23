@@ -26,3 +26,15 @@ C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\obj
 C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\obj\Debug\net5.0\ref\CatalogAPI.dll
 C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\obj\Debug\net5.0\CatalogAPI.pdb
 C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\obj\Debug\net5.0\CatalogAPI.genruntimeconfig.cache
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\DnsClient.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\MongoDB.Bson.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\SharpCompress.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\Snappier.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\ZstdSharp.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+C:\Users\hires\source\Workouts\src\Microservices\Services\Catalog\CatalogAPI\obj\Debug\net5.0\CatalogAPI.csproj.AssemblyReference.cache
