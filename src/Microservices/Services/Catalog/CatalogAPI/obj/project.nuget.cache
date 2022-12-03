@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yyQJ4tnu1tND+8+CL1U1WVa2Icd63ascdp9pM+zJqXLLf/9IkbsxiT+F/tESKJRJQHyE+RyCDxtZLF8ftInUeg==",
+  "dgSpecHash": "IMKQh1790ACfev1tfUD9REhBYzSsCUXHdX4sjOxGeb2DNryNPnKGJEgJnsl0mgAuBW8r5s/aQWIFbqQTRGjDag==",
   "success": true,
   "projectFilePath": "C:\\Users\\hires\\source\\Workouts\\src\\Microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\hires\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
     "C:\\Users\\hires\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
     "C:\\Users\\hires\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\hires\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
     "C:\\Users\\hires\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
     "C:\\Users\\hires\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
     "C:\\Users\\hires\\.nuget\\packages\\mongodb.driver\\2.18.0\\mongodb.driver.2.18.0.nupkg.sha512",
